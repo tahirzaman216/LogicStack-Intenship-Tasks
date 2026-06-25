@@ -1,5 +1,4 @@
-# LogicStack-Intenship-Tasks
-This is the intenship repository where i will add my weekly tasks.
-This intenship is based on Data Analysis
-This is one month online intenship
-4 task (every week)
+# LogicStack-Intenship-Task
+This repository includes the week 1 task that was assigned to us 
+I had completed this and learnt many new things 
+This task was very helpful to me.
